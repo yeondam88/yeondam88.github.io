@@ -1,0 +1,17 @@
+.recent-post {
+  display: flex;
+  justify-content: flex-start;
+  .recent-post-image {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    transition: all 0.5s ease;
+    &:hover {
+      transform: scale(1,1.2);
+    }
+  }
+}
+
+.reading-time {
+  font-size: 13px;
+}

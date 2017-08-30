@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Lloyd's Dev Blog</title>
+ <link href="http://yeondam88.github.io/atom.xml" rel="self"/>
+ <link href="http://yeondam88.github.io/"/>
+ <updated>2017-08-29T19:56:32-07:00</updated>
+ <id>http://yeondam88.github.io</id>
+ <author>
+   <name>Lloyd Park (Yeondam Park)</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Useful Front End Development Study Guide</title>
+   <link href="http://yeondam88.github.io/study-guide/2017/08/25/front-end-developent-useful-site/"/>
+   <updated>2017-08-25T00:00:00-07:00</updated>
+   <id>http://yeondam88.github.io/study-guide/2017/08/25/front-end-developent-useful-site</id>
+   <content type="html">&lt;h1 id=&quot;useful-resources-for-front-end-development&quot;&gt;Useful resources for Front End Development&lt;/h1&gt;
+
+&lt;h2 id=&quot;javascript-interviews&quot;&gt;Javascript Interviews&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/MaximAbramchuck/awesome-interview-questions#javascript&quot;&gt;Awesome Interview Questions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thatjsdude.com/interview/js1.html&quot;&gt;JS: Interview Algorithm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once/?st=ixw80ph7&amp;amp;sh=1b51907c&quot;&gt;Top Questions-reddit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/csvenja/javascript-exercises&quot;&gt;JavaScript interview exercises&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;angular-related&quot;&gt;Angular Related&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/AngularClass/awesome-angular2#material-design&quot;&gt;AngularClass/awesome-angular2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://toddmotto.com&quot;&gt;ToddMotto Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/Angular2/comments/5xrwwi/helpful_angular_2_github_repos_curated_through/&quot;&gt;Helpful Angular Repo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/brillout/awesome-angular-components&quot;&gt;Awesome Angular Component&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;react--redux-related&quot;&gt;React / Redux Related&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dobbit.github.io/redux/api/createStore.html&quot;&gt;Redux Doc in Korean&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.velopert.com&quot;&gt;Velopert Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/react-boilerplate/react-boilerplate&quot;&gt;React Boilerplate&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.com/react-interview-questions-c8a319ed02bd#.it7dbexvz&quot;&gt;React Interview Questions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.com/react-aha-moments-4b92bd36cc4e#.ikurkv6es&quot;&gt;React Aha Moments&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.material-ui.com/#/&quot;&gt;Material-UI (React UI Library)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;javascript-style-guide&quot;&gt;JavaScript Style Guide&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ryanmcdermott/clean-code-javascript&quot;&gt;Clean Code concepts adapted for JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tipjs/javascript-style-guide&quot;&gt;Airbnb JavaScript 스타일 가이드&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;javascript-useful-libraries&quot;&gt;JavaScript Useful Libraries&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/lk-geimfari/awesomo/blob/master/languages/JAVASCRIPT.md&quot;&gt;Awesomo JavsScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nhnent/fe.javascript/wiki/FE-Weekly&quot;&gt;FE-Weekly by NHN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://frontendmasters.gitbooks.io/front-end-handbook-2017&quot;&gt;Front End Developer Handbook 2017&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;javascript-ebooks&quot;&gt;JavaScript eBooks&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://eloquentjavascript.net/&quot;&gt;Eloquent JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bonsaiden.github.io/JavaScript-Garden/&quot;&gt;JavaScript Garden&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://addyosmani.com/resources/essentialjsdesignpatterns/book/&quot;&gt;Learning JavaScript Design Pattern&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leanpub.com/understandinges6/read&quot;&gt;Understanding ECMAScript 6&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://chimera.labs.oreilly.com/books/1234000000262/index.html&quot;&gt;Programming JavaScript Applications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;css-library&quot;&gt;CSS Library&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.muicss.com/&quot;&gt;MUI (Material Design CSS Lightweight Library&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://materializecss.com/&quot;&gt;Materialize CSS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bulma.io/&quot;&gt;BULMA CSS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;other-usefull-resources&quot;&gt;Other usefull resources&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nuage.email/&quot;&gt;Create your own email address - Nuage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://poiemaweb.com/&quot;&gt;PoiemaWeb - Learn HTML/CSS/JS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nhnent/fe.javascript/wiki&quot;&gt;NHN Ent JavaScript Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.jstips.co/&quot;&gt;JS Tips&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://webgradients.com/?ref=producthunt&quot;&gt;Web Gradients&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533&quot;&gt;13 Weeks of JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sindresorhus/awesome#front-end-development&quot;&gt;Awesome Front End Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sorrycc/awesome-javascript#loading-status&quot;&gt;Awesome JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/micromata/awesome-javascript-learning#dom-related&quot;&gt;Awesome JavaScript Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer&quot;&gt;Become a Full Stack Developer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://youmightnotneedjquery.com/&quot;&gt;You might not need jQuery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bestof.js.org&quot;&gt;Best of JS from bestof.js.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://javascripting.com&quot;&gt;JavaScripting&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stats.js.org&quot;&gt;JavaScript Ranks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ng-conf-2017&quot;&gt;ng-conf-2017&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/&quot;&gt;Angular Animation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://yom.nu/ng-conf-2017-demo&quot;&gt;Angular Animation Demo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Introduction React</title>
+   <link href="http://yeondam88.github.io/javascript/2017/08/25/hello-react/"/>
+   <updated>2017-08-25T00:00:00-07:00</updated>
+   <id>http://yeondam88.github.io/javascript/2017/08/25/hello-react</id>
+   <content type="html">&lt;h2 id=&quot;hello-react&quot;&gt;Hello, React&lt;/h2&gt;
+&lt;p&gt;React is popular JavaScript library made by Facebook. I have been studied Front End Development 2 years now, and at the beginning, I only used HTML, CSS, JavaScript, jQuery and never used any frameworks like Angular, Backbone, Knockout, etc.&lt;/p&gt;
+
+&lt;p&gt;I realized that I need to stop using jQuery and start using one of the famous JavaScript frameworks, and when I first time saw the React, I misunderstood about React and somehow I thought I must learn Redux in order to use React. As grow your app, you must use Redux for sure to manage your state easily, but for small size site, or web app do not need to Redux. The first impression of Redux was so confused and hard to understand, so I gave up on React. And I had a chance to work on Angular 2 project as one of the developers to build site. While I was developing the site with Angular, it was really fun and felt easy to work with other developers. Ever since then I kept on using Angular and never thought to learn React.&lt;/p&gt;
+
+&lt;p&gt;One day, I saw Udacity’s new nano degree called React Nanodegree, and I decided to give it a shot. Because I have been using Udacity’s free web development courses and really enjoyed it. Somehow to learning and getting new library React was not that hard. Maybe because I’ve learned Angular before I start to learning React. But as I go deeper in React, I felt that it is really just ‘JavaScript’. You do not need to learn a bunch of new APIs that required by frameworks.&lt;/p&gt;
+
+&lt;p&gt;Take a look code example.&lt;/p&gt;
+
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kr&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;React&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Componenet&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'react'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kr&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;ReactDOM&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'react-dom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;App&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;extends&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Component&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;render&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+      &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;React&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/div&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;    &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;ReactDOM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;render&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;App&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&amp;gt;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getElementById&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'app'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;To write a React app, you just need to use plain JavaScript ES6 syntax and a little bit about React side syntax, such as JSX(it will compile to JavaScript object).&lt;/p&gt;
+
+&lt;p&gt;I really like to use online editors stackblitz or codesandox to prototype it fast with zero configuration. Those are also built with React.&lt;/p&gt;
+
+&lt;p&gt;Next post, I will be writing about building small React app. You could &lt;a href=&quot;http://react-crypto.surge.sh&quot;&gt;click&lt;/a&gt; here to see the demo site&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
